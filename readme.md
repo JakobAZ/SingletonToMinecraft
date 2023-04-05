@@ -16,3 +16,11 @@ Minecraft is a simplified version of the real world and comes with easy ways to 
 
 An intelligence able to make sense of all the information gathered by the platforms and to coordinate their actions towards a common goal (also choosing their utility functions) constitutes one ingredient to revolutionizing construction through robots. Another ingredient is robots that are dexterous enough to serve as platforms building stuff but this is not our area of expertise (yet). 
 
+# Current project status
+We are setting up the git repo needed while learning to use git and Unix-like command-line to do things. 
+
+# Next step
+The next step will be to code the single-neuron example. 
+
+# Possible Projects
+We could try to pick the idea of data-mining real-estate websites back up to have a neural net analyse the data set and in the future get an opinion on what a house should cost, pointing out success factors as well as underpriced properties.
