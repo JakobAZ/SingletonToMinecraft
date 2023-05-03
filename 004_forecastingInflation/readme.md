@@ -1,0 +1,2 @@
+#Goal
+We try to use HICP data from Eurostat to model how an inflationary shock translates into inflation down the line. Instead of careful econometrics, we are going to pour magic deep learning sauce on the project :)
